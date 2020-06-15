@@ -5,8 +5,7 @@
         b. Import brown corpus and accessing data
         c. Inaugural Corpus
         d. Importing webtext corpus and access dara
-        e. Frequency distribution of word in a text
-        f. 
+        e. Frequency distribution of word in a text (HomeWork)
   
   
   2. NLP_LAB 2:
@@ -16,7 +15,6 @@
         d. LEMMATIZER
         e. PRONOUNS using 'jieba' (CHINESE SEGMENTATION)
         f. BASIC TEXT PIPELINING PROCESSING
-        g. 
         
         
   3. NLP_LAB 3:
@@ -27,3 +25,11 @@
               i. CountVectorizer
               ii. TfidfVectorizer
         e. Cosine Similarity
+        
+        
+  4. NLP_TASK1_MARATHI
+        a. INLTK Marathi
+        b. NLTK Marathi
+        c. Stemmer-Lemmatizer-POSTagger
+        d. Part of speech tagging
+        e. Hindi POS
